@@ -1,0 +1,34 @@
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:background="@color/main_bg_color"
+	android:orientation="vertical"
+	android:weightSum="2"
+	tools:context=".view.activity.MainActivity">
+	
+	<android.support.v7.widget.RecyclerView
+		android:id="@+id/recyclerView"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_below="@id/app_bar_layout"
+		android:layout_weight="2"
+		android:scrollbars="vertical"
+		/>
+	
+	<TextView
+		android:id="@+id/add_note"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_alignParentBottom="true"
+		android:layout_centerInParent="true"
+		android:layout_weight="0"
+		android:background="@color/primaryColor"
+		android:gravity="center"
+		android:text="+"
+		android:textAlignment="center"
+		android:textColor="@color/white"
+		android:textSize="30dp"/>
+
+</LinearLayout>

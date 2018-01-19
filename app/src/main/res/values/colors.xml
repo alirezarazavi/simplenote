@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="primaryColor">#ffc107</color>
+	<color name="primaryColorDark">#ffa000</color>
+	<color name="accentColor">#4caf50</color>
+	<color name="lightPrimaryColor">#ffecb3</color>
+	<color name="primaryTextColor">#212121</color>
+	<color name="secondaryTextColor">#727272</color>
+	<color name="dividerColor">#ffd7d7d7</color>
+	<color name="light_color">#c6c6c6</color>
+	
+	<color name="primaryColor2">#607D8B</color>
+	<color name="primaryColorDark2">#455A64</color>
+
+	<color name="fab_material_amber_800">#ff8f00</color>
+
+	<color name="title_light_primary">#262626</color>
+	<color name="text_light_primary">#5F5F5F</color>
+	<color name="title_light_secondary">#464646</color>
+	<color name="text_light_secondary">#5F5F5F</color>
+
+	<color name="date_light_secondary">#c0d0d1</color>
+	<color name="date_dark_secondary">#444E4F</color>
+	
+	<color name="title_dark">#fff1f1f1</color>
+	<color name="text_dark">#b3ffffff</color>
+
+	<color name="black_semi_transparent">#B2000000</color>
+	<color name="background">#e5e5e5</color>
+	<color name="half_black">#808080</color>
+	<color name="white">#fafafa</color>
+	<color name="white_pressed">#f1f1f1</color>
+	<color name="pink">#e91e63</color>
+	<color name="pink_pressed">#ec407a</color>
+	<color name="blue_semi_transparent">#805677fc</color>
+	<color name="blue_semi_transparent_pressed">#80738ffe</color>
+
+	<color name="main_bg_color">#FFEFEFEF</color>
+	<color name="dark_bg_color">#263238</color>
+	<color name="dark_bg_color2">#1b262d</color>
+
+
+</resources>

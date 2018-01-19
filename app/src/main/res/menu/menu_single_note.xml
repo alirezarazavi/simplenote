@@ -1,0 +1,47 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+	  xmlns:app="http://schemas.android.com/apk/res-auto"
+	  xmlns:tools="http://schemas.android.com/tools"
+	  android:layoutDirection="rtl"
+	  tools:context=".SingleNoteActivity">
+
+	<item
+		android:id="@+id/action_delete"
+		android:icon="@drawable/ic_delete_white"
+		android:orderInCategory="99"
+		android:title="@string/action_delete"
+		app:showAsAction="never"
+		/>
+
+	<!--<item-->
+		<!--android:id="@+id/action_edit"-->
+		<!--android:icon="@drawable/ic_edit_white"-->
+		<!--android:orderInCategory="98"-->
+		<!--android:title="@string/action_edit"-->
+		<!--app:showAsAction="never"-->
+		<!--/>-->
+
+	<item
+		android:id="@+id/action_share"
+		android:icon="@drawable/ic_share"
+		android:orderInCategory="96"
+		android:title="@string/action_share"
+		app:showAsAction="ifRoom"
+		/>
+
+	<item
+		android:id="@+id/action_night_mode"
+		android:icon="@drawable/ic_night_mode"
+		android:orderInCategory="95"
+		android:title="@string/action_toggle_night_mode"
+		app:showAsAction="ifRoom"
+		/>
+
+	<item
+		android:id="@+id/action_font_size"
+		android:icon="@drawable/ic_font_size"
+		android:orderInCategory="94"
+		android:title="@string/action_change_font_size"
+		app:showAsAction="ifRoom"
+		/>
+
+</menu>

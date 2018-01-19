@@ -1,0 +1,47 @@
+<resources>
+	
+	<!-- Base application theme. -->
+	<style name="AppTheme" parent="AppTheme.Base">
+		<!-- Customize your theme here. -->
+	
+	</style>
+	
+	<style name="AppTheme.Base" parent="Theme.AppCompat.NoActionBar">
+		<item name="colorPrimary">@color/primaryColor</item>
+		<item name="colorPrimaryDark">@color/primaryColorDark</item>
+		<item name="windowActionModeOverlay">true</item>
+		<item name="actionModeBackground">@color/primaryColorDark</item>
+	</style>
+	
+	<style name="searchActivity" parent="AppTheme.Base">
+		<item name="colorPrimary">@color/primaryColor2</item>
+		<item name="colorPrimaryDark">@color/primaryColorDark2</item>
+		<item name="windowActionModeOverlay">true</item>
+		<item name="actionModeBackground">@color/primaryColorDark2</item>
+	</style>
+	
+	<style name="single_note_date" parent="AppTheme.Base">
+		<item name="android:textSize">12sp</item>
+		<item name="android:textColor">@color/half_black</item>
+		<item name="android:textStyle">italic</item>
+		<item name="android:padding">5dp</item>
+	</style>
+	
+	<style name="list_note_title" parent="AppTheme.Base">
+		<item name="android:textColor">@color/title_light_secondary</item>
+		<item name="android:textSize">20sp</item>
+	</style>
+	
+	<style name="list_note_text" parent="AppTheme.Base">
+		<item name="android:textColor">@color/text_light_secondary</item>
+		<item name="android:textSize">15sp</item>
+	</style>
+	
+	<style name="menu_labels_style">
+		<item name="android:background">@drawable/fab_label_background</item>
+		<item name="android:textColor">@color/white</item>
+	</style>
+
+</resources>
+
+

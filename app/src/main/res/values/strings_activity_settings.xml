@@ -1,0 +1,54 @@
+<resources>
+    <string name="title_activity_settings">تنظیمات</string>
+
+    <string name="pref_header_general">عمومی</string>
+
+    <string name="pref_title_protect_app">فعال سازی قفل برنامه</string>
+    <string name="pref_description_protect_app">محافظت از برنامه به وسیله رمز چهاررقمی</string>
+
+    <string name="pref_title_protect_pin">رمز</string>
+    <string name="pref_description_pin">توجه! اگر رمز چهاررقمی خود را فراموش کنید، تمام نوشته‌های شما از بین می‌رود  \nاگر رمز وارد شده کمتر از چهاررقم باشد، قفل برنامه فعال نمی‌گردد</string>
+
+    <string name="pref_title_note_view_type">سبک نمایش</string>
+    <string name="pref_title_note_view_type_summary">نحوه نمایش نوشته‌ها در صفحه نخست</string>
+    <string-array name="pref_note_view_titles">
+        <item>لیست</item>
+        <item>جدول</item>
+    </string-array>
+    <string-array name="pref_note_view_titles_values">
+        <item>1</item>
+        <item>0</item>
+    </string-array>
+	<string-array name="pref_list_order_titles">
+		<item>حروف الفبا (متن)</item>
+		<item>حروف الفبا (عنوان)</item>
+		<item>تاریخ ایجاد (اول به آخر)</item>
+		<item>تاریخ ایجاد (پیش فرض)</item>
+	</string-array>
+	<string-array name="pref_list_order_values">
+		<item>3</item>
+		<item>2</item>
+		<item>1</item>
+		<item>0</item>
+	</string-array>
+
+	<string name="pref_title_export_notes">خروجی</string>
+	<string name="pref_description_export_notes">خروجی گرفتن از نوشته ها</string>
+
+	<string name="pref_title_backup_notes">پشتیبان</string>
+	<string name="pref_description_backup_notes">از نوشته‌های خود پشتیبان بگیرید تا بعدا بتوانید آن‌ها را به برنامه بازگردانید. فایل پشتیبان فقط قابل استفاده در این برنامه است</string>
+	<string name="pref_title_restore_notes">بازگرداندن پشتیبان</string>
+	<string name="pref_description_restore_notes">محتویات فایل پشتیبان، به نوشته‌های فعلی شما اضافه می‌شود</string>
+	
+	<string name="pref_title_theme">قالب اصلی</string>
+	<string name="pref_title_theme_summary">تنظیم قالب اصلی برنامه</string>
+	<string-array name="pref_theme_titles">قالب اصلی
+		<item>شب</item>
+		<item>روز</item>
+	</string-array>
+	<string-array name="pref_theme_titles_values">قالب اصلی
+		<item>1</item>
+		<item>0</item>
+	</string-array>
+
+</resources>

@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+	  xmlns:app="http://schemas.android.com/apk/res-auto"
+	  xmlns:tools="http://schemas.android.com/tools"
+	  tools:context=".view.activity.AboutActivity">
+	
+	<item
+		android:id="@+id/action_support"
+		android:icon="@drawable/star"
+		android:orderInCategory="99"
+		android:title="@string/action_support"
+		app:showAsAction="ifRoom"
+		/>
+
+</menu>

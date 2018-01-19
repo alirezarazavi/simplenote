@@ -1,0 +1,55 @@
+<LinearLayout
+	android:id="@+id/sos"
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content"
+	android:gravity="center_vertical"
+	android:minHeight="?android:attr/listPreferredItemHeight"
+	android:padding="?android:attr/scrollbarSize">
+	
+	<CheckBox
+		android:id="@+android:id/checkbox"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_gravity="center"
+		android:clickable="false"
+		android:focusable="false"
+		android:focusableInTouchMode="false"
+		android:gravity="center"
+		android:minWidth="56dp"/>
+	
+	<RelativeLayout
+		android:layout_width="0dp"
+		android:layout_height="wrap_content"
+		android:layout_marginEnd="5dp"
+		android:layout_marginRight="5dp"
+		android:layout_weight="1"
+		android:gravity="end">
+		
+		<TextView
+			android:id="@+android:id/title"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_alignParentEnd="true"
+			android:layout_alignParentRight="true"
+			android:ellipsize="marquee"
+			android:fadingEdge="horizontal"
+			android:maxLines="1"
+			android:textAppearance="?android:attr/textAppearanceMedium"
+			android:textColor="?android:attr/textColorPrimary"
+			android:textSize="16sp"/>
+		
+		<TextView
+			android:id="@android:id/summary"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_alignEnd="@android:id/title"
+			android:layout_alignRight="@android:id/title"
+			android:layout_below="@android:id/title"
+			android:maxLines="3"
+			android:textAppearance="?android:attr/textAppearanceSmall"
+			android:textColor="?android:attr/textColorSecondary"
+			android:textSize="14sp"/>
+	
+	</RelativeLayout>
+</LinearLayout>

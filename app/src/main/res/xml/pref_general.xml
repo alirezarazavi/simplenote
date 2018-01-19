@@ -1,0 +1,72 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+	
+	<PreferenceCategory android:title="تنظیمات عمومی">
+		<ListPreference
+			android:defaultValue="0"
+			android:entries="@array/pref_theme_titles"
+			android:entryValues="@array/pref_theme_titles_values"
+			android:key="app_theme"
+			android:layout="@layout/preference_list"
+			android:negativeButtonText="@null"
+			android:positiveButtonText="@null"
+			android:title="@string/pref_title_theme"
+			android:summary="@string/pref_title_theme_summary"/>
+		
+		<ListPreference
+			android:defaultValue="0"
+			android:entries="@array/pref_note_view_titles"
+			android:entryValues="@array/pref_note_view_titles_values"
+			android:key="view_list"
+			android:layout="@layout/preference_list"
+			android:negativeButtonText="@null"
+			android:positiveButtonText="@null"
+			android:title="@string/pref_title_note_view_type"
+			android:summary="@string/pref_title_note_view_type_summary"/>
+		
+		<ListPreference
+			android:defaultValue="0"
+			android:entries="@array/pref_list_order_titles"
+			android:entryValues="@array/pref_list_order_values"
+			android:key="list_order"
+			android:layout="@layout/preference_list"
+			android:negativeButtonText="@null"
+			android:positiveButtonText="@null"
+			android:title="@string/pref_title_list_order_type"
+			android:summary="@string/pref_title_list_order_summary"/>
+	</PreferenceCategory>
+	
+	<PreferenceCategory android:title="تنظیمات امنیتی">
+		<CheckBoxPreference
+			android:defaultValue="false"
+			android:key="protect_checkbox"
+			android:layout="@layout/preference_checkbox"
+			android:summary="@string/pref_description_protect_app"
+			android:title="@string/pref_title_protect_app"/>
+		<EditTextPreference
+			android:defaultValue=""
+			android:dependency="protect_checkbox"
+			android:inputType="number"
+			android:key="protect_pin"
+			android:layout="@layout/preference_list"
+			android:maxLength="4"
+			android:maxLines="1"
+			android:selectAllOnFocus="true"
+			android:singleLine="true"
+			android:summary="@string/pref_description_pin"
+			android:title="@string/pref_title_protect_pin"/>
+	</PreferenceCategory>
+	
+	<PreferenceCategory android:title="پشتیبان و بازگرداندن">
+		<Preference
+			android:key="backup_notes"
+			android:layout="@layout/preference_list"
+			android:summary="@string/pref_description_backup_notes"
+			android:title="@string/pref_title_backup_notes"/>
+		<Preference
+			android:key="restore_notes"
+			android:layout="@layout/preference_list"
+			android:summary="@string/pref_description_restore_notes"
+			android:title="@string/pref_title_restore_notes"/>
+	</PreferenceCategory>
+
+</PreferenceScreen>

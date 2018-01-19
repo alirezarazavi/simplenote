@@ -1,0 +1,15 @@
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+	<shortcut
+		android:shortcutId="compose"
+		android:enabled="true"
+		android:icon="@drawable/ic_shortcut_add"
+		android:shortcutShortLabel="@string/compose_shortcut_short_label"
+		android:shortcutLongLabel="@string/compose_shortcut_long_label"
+		android:shortcutDisabledMessage="@string/compose_disabled_message">
+			<!--android:action="android.intent.action.VIEW"-->
+		<intent
+			android:action="ir.alirezarazavi.simplenote.view.activity.MainActivity.COMPOSE"
+			android:targetPackage="ir.alirezarazavi.simplenote"
+			android:targetClass="ir.alirezarazavi.simplenote.view.activity.MainActivity" />
+	</shortcut>
+</shortcuts>

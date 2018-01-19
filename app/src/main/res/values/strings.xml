@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">دفترچه</string>
+    <string name="app_description">دفترچه برنامه‌ای ساده و سبک برای یادداشت‌برداری در دستگاه‌های اندرویدی است. دفترچه با هدف رقابت با برنامه‌های پرامکانات مشابه ساخته نشده است. هدف از برنامه دفترچه سادگی در عین استاندارد بودن است.</string>
+    <string name="app_logo_content_description">لوگو دفترچه</string>
+    <string name="nothing_found">نوشته ای برای نمایش وجود ندارد</string>
+    <string name="no_search_result">نوشته‌ای پیدا نشد</string>
+    <string name="action_settings">تنظیمات</string>
+    <string name="action_about">درباره</string>
+    <string name="action_search">جستجو</string>
+    <string name="action_new">جدید</string>
+    <string name="action_save">ذخیره</string>
+    <string name="action_edit">ویرایش</string>
+    <string name="action_delete">حذف</string>
+    <string name="action_share">اشتراک گذاری</string>
+    <string name="title_activity_create_note">ایجاد نوشته</string>
+    <string name="create_note_title">عنوان</string>
+    <string name="create_note_text">متن</string>
+    <string name="title_activity_single_note">نوشته</string>
+    <string name="title_activity_about">درباره</string>
+    <string name="authorUrl">alirezarazavi.ir</string>
+    <string name="authorFullUrl">http://www.alirezarazavi.ir</string>
+    <string name="authorEmail">hi@alirezarazavi.ir</string>
+    <string name="alert_prompt_delete_text">نوشته حذف خواهد شد</string>
+    <string name="alert_deleted_text">نوشته حذف شد</string>
+    <string name="alert_error_text">خطا! یک مشکلی پیش آمد</string>
+    <string name="contact">ارتباط</string>
+    <string name="ok">باشه</string>
+
+    <string-array name="contact_me_items">
+        <item>مشاهده وب سایت</item>
+        <item>ارسال ایمیل</item>
+    </string-array>
+    <string-array name="long_click_menu">
+        <item>ویرایش</item>
+        <item>حذف</item>
+    </string-array>
+
+    <string name="title_activity_edit_note">ویرایش نوشته</string>
+    <string name="title_activity_list">لیست</string>
+	<string name="pin_code_hint">رمز چهاررقمی خود را وارد کنید</string>
+	<string name="locked_pin_icon_description">قفل شده</string>
+	<string name="appwidget_text">نوشته</string>
+	<string name="add_widget">اضافه کردن ویجت</string>
+	<string name="action_show_menu">امکانات</string>
+	<string name="title_activity_search">نتیجه جستجو</string>
+	<string name="app_search">جستجو</string>
+	<string name="app_search_hint">کادر جستجو</string>
+
+    <string name="action_support">حمایت از برنامه</string>
+    <string name="cafebazaar_not_found">ببخشید، ولی کافه بازار روی دستگاه شما نصب نیست!</string>
+    <string name="action_add_image">افزودن تصویر</string>
+    <string name="action_change_font_size">تغییر اندازه قلم</string>
+    <string name="action_toggle_night_mode">مطالعه در شب</string>
+    <string name="action_discard">انصراف</string>
+	<string name="search_bar_hint">جستجو…</string>
+	<string name="empty_list_text">نوشته‌ای پیدا نشد\nیک نوشته جدید بنویسید</string>
+	
+	<string name="compose_shortcut_short_label">نوشته جدید</string>
+	<string name="compose_shortcut_long_label">نوشته جدید</string>
+	<string name="compose_disabled_message">غیرفعال</string>
+	<string name="alirezarazavi">alirezarazavi</string>
+	<string name="twitter">_alirezarazavi</string>
+	<string name="permission_denied_msg">بدون دسترسی به حافظه نمی‌توان این عملیات را انجام داد</string>
+	<string name="permssion_rationale_msg">برای انجام این عملیات نیاز است که برنامه به حافظه دستگاه دسترسی دشته باشد</string>
+	<string name="permssion_rationale_title">درخواست دسترسی</string>
+	<string name="do_it">انجام بده</string>
+	<string name="backup_location_msg">فایل پشتیبان، در پوشه simplenote داخل حافظه دستگاه ذخیره می‌شود</string>
+	<string name="pref_title_list_order_type">ترتیب نمایش</string>
+	<string name="pref_title_list_order_summary">ترتیب نمایش نوشته‌ها در صفحه نخست</string>
+
+
+</resources>

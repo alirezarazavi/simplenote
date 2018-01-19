@@ -1,0 +1,71 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+			  xmlns:app="http://schemas.android.com/apk/res-auto"
+			  xmlns:tools="http://schemas.android.com/tools"
+			  android:layout_width="match_parent"
+			  android:layout_height="match_parent"
+			  android:background="@color/background_material_light"
+			  android:orientation="vertical"
+			  tools:context="ir.alirezarazavi.simplenote.view.activity.AboutActivity">
+	
+	<include
+		android:id="@+id/app_bar"
+		layout="@layout/app_bar"/>
+	
+	<ImageView
+		android:id="@+id/app_logo"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_marginTop="60dp"
+		android:contentDescription="@string/app_logo_content_description"
+		android:src="@mipmap/ic_round_launcher"/>
+	
+	<TextView
+		android:id="@+id/app_name"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_gravity="center"
+		android:text="@string/app_name"
+		android:textColor="@android:color/secondary_text_light"
+		android:textSize="28sp"
+		/>
+	
+	<TextView
+		android:id="@+id/app_version"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_gravity="center"
+		android:layout_marginBottom="10dp"
+		android:textColor="@android:color/secondary_text_light"
+		/>
+	
+	<View
+		android:layout_width="150dp"
+		android:layout_height="1dp"
+		android:layout_gravity="center"
+		android:background="@android:color/darker_gray"
+		/>
+	
+	<TextView
+		android:id="@+id/authorUrl"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_gravity="center"
+		android:layout_marginTop="10dp"
+		android:clickable="true"
+		android:onClick="contactMe"
+		android:text="@string/authorUrl"
+		android:textColor="@android:color/secondary_text_light"
+		/>
+	
+	<TextView
+		android:id="@+id/authorEmail"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_gravity="center"
+		android:clickable="true"
+		android:onClick="contactMe"
+		android:text="@string/authorEmail"
+		android:textColor="@android:color/secondary_text_light"
+		/>
+
+</LinearLayout>

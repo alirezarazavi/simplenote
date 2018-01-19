@@ -1,0 +1,91 @@
+<RelativeLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="vertical"
+	tools:context=".view.activity.MainActivity">
+	
+	<ScrollView
+		android:id="@+id/scroll_view"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:background="@color/main_bg_color">
+		
+		<LinearLayout
+			android:id="@+id/linear_view"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:focusable="true"
+			android:focusableInTouchMode="true"
+			android:background="@color/main_bg_color"
+			android:orientation="vertical"
+			android:paddingBottom="10dp"
+			android:paddingLeft="20dp"
+			android:paddingRight="20dp"
+			android:paddingTop="5dp">
+			
+			<EditText
+				android:id="@+id/note_title"
+				android:layout_width="match_parent"
+				android:layout_height="match_parent"
+				android:paddingTop="5dp"
+				android:paddingBottom="5dp"
+				android:background="@android:color/transparent"
+				android:gravity="start|right|center_vertical"
+				android:hint="@string/create_note_title"
+				android:inputType="textImeMultiLine"
+				android:textColor="@color/title_light_primary"
+				android:textColorHint="@color/secondaryTextColor"
+				android:textCursorDrawable="@drawable/cursor"
+				android:textDirection="rtl"
+				android:textStyle="bold"
+				/>
+			
+			<EditText
+				android:id="@+id/note_text"
+				android:layout_width="match_parent"
+				android:layout_height="match_parent"
+				android:autoLink="all"
+				android:background="@android:color/transparent"
+				android:gravity="start|right"
+				android:hint="@string/create_note_text"
+				android:inputType="textMultiLine"
+				android:linksClickable="true"
+				android:scrollbars="vertical"
+				android:textColor="@color/text_light_primary"
+				android:textColorHint="@color/secondaryTextColor"
+				android:textCursorDrawable="@drawable/cursor"
+				android:textDirection="rtl"
+				/>
+			
+			<TextView
+				android:id="@+id/note_date"
+				style="@style/single_note_date"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:gravity="start|left"
+				/>
+		
+		</LinearLayout>
+	
+	</ScrollView>
+	
+	<FrameLayout
+		android:id="@+id/seek_bar"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_below="@id/app_bar"
+		android:background="@color/lightPrimaryColor"
+		android:padding="5dp"
+		android:visibility="gone">
+		
+		<SeekBar
+			android:id="@+id/change_font_seek_bar"
+			android:layout_width="120dp"
+			android:layout_height="wrap_content"
+			android:max="55"
+			android:progress="15"/>
+	</FrameLayout>
+
+</RelativeLayout>

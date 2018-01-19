@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\alireza\.android\build-cache\f0e63dad575f102a9a26e291e021d175882491fb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="C:\Users\alireza\AndroidStudioProjects\SimpleNote\app\build\intermediates\pre-dexed\release\classes_708afa96014feade681ae765d2b3e7deca70a29e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alireza\.android\build-cache\84ed3e05782bd7fa9f298513c9cd0ff45d9a284c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="C:\Users\alireza\AndroidStudioProjects\SimpleNote\app\build\intermediates\pre-dexed\release\classes_dff9f6d8506e970a34402f82dfde326efb441204.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alireza\.android\build-cache\c51ec821b39ad7d40fb3af05b1222bd270cb8f62\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\alireza\AndroidStudioProjects\SimpleNote\app\build\intermediates\pre-dexed\debug\classes_fd6d289618446236e1fa61102f0af7197056d8cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alireza\.gradle\caches\modules-2\files-2.1\com.google.dagger\dagger\2.10-rc4\72b1eae80561b66f0a24b300ab0dfafde959eb58\dagger-2.10-rc4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="72b1eae80561b66f0a24b300ab0dfafde959eb58">
+        <dex dex="C:\Users\alireza\AndroidStudioProjects\SimpleNote\app\build\intermediates\pre-dexed\debug\dagger-2.10-rc4_d2eb391db2f2ccd52a04b8cac00269abb70d04e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alireza\.android\build-cache\ec5874e7cce4f62dec21bbb2664973920f8413b7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="C:\Users\alireza\AndroidStudioProjects\SimpleNote\app\build\intermediates\pre-dexed\debug\classes_3a8f7d7c99ad301c8a2158d488fe560aa544f635.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alireza\.android\build-cache\7a0edf4d17caeaf1cdfac078714df2cdf89286a4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\alireza\AndroidStudioProjects\SimpleNote\app\build\intermediates\pre-dexed\debug\classes_64ab8dd2f746b67f993acc0f18b9bbab77ac1374.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alireza\.android\build-cache\ca98008ef773a02cb7a60891363980bdb8320111\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\alireza\AndroidStudioProjects\SimpleNote\app\build\intermediates\pre-dexed\debug\classes_0a11c15f0951d8cfc70feb03168bdadc33ef014c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alireza\.android\build-cache\f19539fa948e76584fd0fb7635be3c475f4055f2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ebcb0bcf52fab7c586f39717f7cb8de91748b1b1">
+        <dex dex="C:\Users\alireza\AndroidStudioProjects\SimpleNote\app\build\intermediates\pre-dexed\debug\classes_85a5d6b9e8ab9f6450185bdf8e4cd3285f09412e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alireza\.android\build-cache\b7849363f058d62f4a361355ca8e12fe6529b6db\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\alireza\AndroidStudioProjects\SimpleNote\app\build\intermediates\pre-dexed\debug\classes_920c54c3b9514904f8da78740183782bf8f098a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alireza\.android\build-cache\9ef0baf775cd3bdc83f79252a86c9f9fb46178eb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8ae156c2726ac9c56daaf4b49452ec2cdb7bba9">
+        <dex dex="C:\Users\alireza\AndroidStudioProjects\SimpleNote\app\build\intermediates\pre-dexed\debug\classes_508655701bff504ce0bf195996cdc6ac615abfc3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alireza\.android\build-cache\61059740258a18bff58a5f7874512d58cc611e88\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Users\alireza\AndroidStudioProjects\SimpleNote\app\build\intermediates\pre-dexed\debug\classes_658c0162e71422916987083ead198dad12a0bc31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alireza\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\alireza\AndroidStudioProjects\SimpleNote\app\build\intermediates\pre-dexed\debug\javax.inject-1_ae3a01d4d948683fa9effe749bb9ad0d35b2748c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alireza\.android\build-cache\3caecbb5b9e4347b5b2c1a3c9384daf2d110260f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Users\alireza\AndroidStudioProjects\SimpleNote\app\build\intermediates\pre-dexed\debug\classes_337d74b35df4f2d175e5886c89599803e4c9fbf8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alireza\.android\build-cache\cfc23002e58302d2cee9f126792edbd6f808d9ac\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="421a5cebe9ff187c98075c59786e9464c5c67d36">
+        <dex dex="C:\Users\alireza\AndroidStudioProjects\SimpleNote\app\build\intermediates\pre-dexed\release\classes_ebdca57ccf7f631549ff2cf54f5e09c60b26b625.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alireza\.android\build-cache\ed6ab40d29107f99ac7fccada3130500f148268f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f8cdf8e65252623815c235ed45651893777565d0">
+        <dex dex="C:\Users\alireza\AndroidStudioProjects\SimpleNote\app\build\intermediates\pre-dexed\debug\classes_03aa47f1e2b7852c1239ef5cbee1d7f6b6bcd353.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alireza\.android\build-cache\910e1df6bd1b05550e3a60581cb79b408d6d8118\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Users\alireza\AndroidStudioProjects\SimpleNote\app\build\intermediates\pre-dexed\debug\classes_1517bcce888f690563f952dc694dd25ea61006c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alireza\.android\build-cache\fbd8bc7028c0e4ea6555fed347e028c61c761617\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d08bb32b88df3dbcbe1d498c3c57f020b8c521ec">
+        <dex dex="C:\Users\alireza\AndroidStudioProjects\SimpleNote\app\build\intermediates\pre-dexed\release\classes_a9075c81eef3018407e2e32b0d0cc8cbcb1fa330.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alireza\.android\build-cache\126434b1874561cfb3e38305c36fa5c84ecb430a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea03bbfaed89818f233ee9918fac493f2b63895a">
+        <dex dex="C:\Users\alireza\AndroidStudioProjects\SimpleNote\app\build\intermediates\pre-dexed\release\classes_755e98f5027fc28707c89497d28e9edfe3a2a93f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alireza\.android\build-cache\437e988d6f3dc08b508e6188e7a89464c20649e8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\alireza\AndroidStudioProjects\SimpleNote\app\build\intermediates\pre-dexed\debug\classes_31036e8fb9830c767a696462fbd1a756c966a38b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alireza\.android\build-cache\3ad3615e1b650aea18e5b309d5bbdd5c61c8096c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="C:\Users\alireza\AndroidStudioProjects\SimpleNote\app\build\intermediates\pre-dexed\debug\classes_c8ffda523869354d8f73f2831f2e4a2d0a81034e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alireza\.android\build-cache\684266bdea9616980a2d5451fcdf24212c507904\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="C:\Users\alireza\AndroidStudioProjects\SimpleNote\app\build\intermediates\pre-dexed\release\classes_ae32dffb264b3f253b716bd230a19e1cebd4b409.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\dev\android-sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Users\alireza\AndroidStudioProjects\SimpleNote\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.1_3c4e0c72860f943aab19fd194b8bb83dc1fcd6e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alireza\.android\build-cache\36220970ccbf9811cee413d05da3b2c4d7d9620a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\alireza\AndroidStudioProjects\SimpleNote\app\build\intermediates\pre-dexed\debug\classes_1d0f4fa39b86d557ab6918e76f29f61f251ed1f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alireza\.android\build-cache\0d382910e80c28521e2eb4d49f7858d824c4abbd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="C:\Users\alireza\AndroidStudioProjects\SimpleNote\app\build\intermediates\pre-dexed\debug\classes_83a439b4b7d133ab509be1db62e4cab40256c109.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alireza\.android\build-cache\b282bc80b3f63e268001e87ce8ad8bf8c28edf0c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0e6ecaea1e8dd0d0aaecd71034334ea288d2dfeb">
+        <dex dex="C:\Users\alireza\AndroidStudioProjects\SimpleNote\app\build\intermediates\pre-dexed\release\classes_2eae35f94109603e28e5270102658dfc6f9ba636.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alireza\.android\build-cache\90374bc46014c010eab3a442aaf6098d3455d12a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7a055a4323187e6f6a5e63f01b5a59bff71869a5">
+        <dex dex="C:\Users\alireza\AndroidStudioProjects\SimpleNote\app\build\intermediates\pre-dexed\debug\classes_4dbba144776df756e0486de6ee83fb6f1af022dd.jar" />
+    </item>
+
+</items>
